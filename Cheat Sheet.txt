@@ -1,0 +1,8 @@
+1. git init 
+- creats a tracking file in the folder where we can to put the files into the git repository
+
+2. git status
+- to see what are tracked and untracked files in the local repository
+
+3. .gitignore
+- to create a git ignore file that you can use to write the name of the files that you don't want git to put in your repo
